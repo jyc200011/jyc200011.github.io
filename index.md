@@ -1,4 +1,4 @@
-## Hi，I'm Jiang Yichen
+ Hi，I'm Jiang Yichen
 
 This is my personal website
 
