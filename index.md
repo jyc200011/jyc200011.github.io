@@ -3,5 +3,5 @@
 ### This is my personal website
 
 I'm an undergraduate student and major in automation.
-![Image](https://github.com/jyc200011/Screenshots/blob/main/photos.png)
 
+<img src="https://github.com/jyc200011/Screenshots/blob/main/photos.png" width="100px">
