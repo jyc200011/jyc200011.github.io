@@ -2,7 +2,7 @@
 
 ### This is my personal website
 
-![Image](https://github.com/jyc200011/Screenshots/blob/main/photos.png) 
+![Image](https://github.com/jyc200011/Screenshots/blob/main/photos.png =100x100) 
 
 I'm an undergraduate student and major in automation.
 
